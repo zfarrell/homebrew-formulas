@@ -1,4 +1,4 @@
-class Liquibase < Formula
+class Liquibase341 < Formula
   desc "Library for database change tracking"
   homepage "http://liquibase.org"
   url "https://github.com/liquibase/liquibase/releases/download/liquibase-parent-3.4.1/liquibase-3.4.1-bin.tar.gz"
